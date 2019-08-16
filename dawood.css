@@ -3,14 +3,10 @@ body {
 }
 
 h1 {
-	color: red;
-}
-h2 {
-	background-color: yellow;
-}
-h3 {
 	color: blue;
 }
-h4 {
-	color: yellow;
-}
+
+.image { 
+	border: solid 4px yellow;
+	border-radius: 50%;
+ }
